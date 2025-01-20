@@ -1,6 +1,6 @@
 export const siteConfig = {
   author: "TakiMoysha",
-  title: "Moysha's Public Docs",
+  title: "Ala Blog",
   socialLinks: [
     {
       text: "GitHub",
@@ -8,7 +8,7 @@ export const siteConfig = {
       icon: "i-simple-icons-gihtub",
       header: "i-ri-gihtub-line",
     },
-  ]
+  ],
 };
 
 export default siteConfig;

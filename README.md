@@ -1,22 +1,15 @@
 # Public Docs
 
-```sh
-npm create astro@latest -- --template basics
-```
+## Stack
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+1. hellabyte - storage
 
-## 🧞 Commands
+## Roadmap
 
-All commands are run from the root of the project, from a terminal:
+1. [ ] CV Page;
+2. [ ] Blog Page;
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## References
 
-Other commands you can see in `justfile`.
+1. [cv - cvpage / github.com](https://github.com/reonokiy/cvpage)
+2. [blog - astro-theme-meo / github.com](https://github.com/miaobuao/astro-theme-meo)
